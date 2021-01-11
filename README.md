@@ -10,5 +10,5 @@ The implemented algorithm starts by importing a plate photo. Then, the algorithm
 
 Samples of the results:
 
-<img src="Results/1.JPG" width="1000"/>
-<img src="Results/2.JPG" width="1000"/>
+<img src="Results/1.jpg" width="1000"/>
+<img src="Results/2.jpg" width="1000"/>
